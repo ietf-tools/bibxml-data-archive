@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference  anchor='RFC9243' target='https://www.rfc-editor.org/info/rfc9243'>
+<front>
+<title>A YANG Data Model for DHCPv6 Configuration</title>
+<author initials='I.' surname='Farrer' fullname='I. Farrer' role='editor'><organization /></author>
+<date year='2022' month='June' />
+<abstract><t>This document describes YANG data models for the configuration and management of Dynamic Host Configuration Protocol for IPv6 (DHCPv6) (RFC 8415) servers, relays, and clients.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='9243'/>
+<seriesInfo name='DOI' value='10.17487/RFC9243'/>
+</reference>

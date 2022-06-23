@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference  anchor='RFC9251' target='https://www.rfc-editor.org/info/rfc9251'>
+<front>
+<title>Internet Group Management Protocol (IGMP) and Multicast Listener Discovery (MLD) Proxies for Ethernet VPN (EVPN)</title>
+<author initials='A.' surname='Sajassi' fullname='A. Sajassi'><organization /></author>
+<author initials='S.' surname='Thoria' fullname='S. Thoria'><organization /></author>
+<author initials='M.' surname='Mishra' fullname='M. Mishra'><organization /></author>
+<author initials='K.' surname='Patel' fullname='K. Patel'><organization /></author>
+<author initials='J.' surname='Drake' fullname='J. Drake'><organization /></author>
+<author initials='W.' surname='Lin' fullname='W. Lin'><organization /></author>
+<date year='2022' month='June' />
+<abstract><t>This document describes how to support endpoints running the Internet Group Management Protocol (IGMP) or Multicast Listener Discovery (MLD) efficiently for the multicast services over an Ethernet VPN (EVPN) network by incorporating IGMP/MLD Proxy procedures on EVPN Provider Edges (PEs).</t></abstract>
+</front>
+<seriesInfo name='RFC' value='9251'/>
+<seriesInfo name='DOI' value='10.17487/RFC9251'/>
+</reference>

@@ -1,0 +1,7 @@
+    <item rdf:about='http://www.rfc-editor.org/rfc/rfc9259.txt'>
+        <link>http://www.rfc-editor.org/rfc/rfc9259.txt</link>
+        <title>RFC 9259: Operations, Administration, and Maintenance (OAM) in Segment Routing over IPv6 (SRv6), Z. Ali, C. Filsfils, S. Matsushima, D. Voyer, M. Chen</title>
+        <dc:date>2022-06-01T23:00:00-00:00</dc:date>
+        <description>This document describes how the existing IPv6 mechanisms for ping and traceroute can be used in a Segment Routing over IPv6 (SRv6) network. The document also specifies the OAM flag (O-flag) in the Segment Routing Header (SRH) for performing controllable and predictable flow sampling from segment endpoints. In addition, the document describes how a centralized monitoring system performs a path continuity check between any nodes within an SRv6 domain. </description>
+    </item>
+

@@ -9,9 +9,9 @@
 <author initials='K' surname='Davis' fullname='Kyzer Davis'>
 <organization />
 </author>
-<date year='2022' month='March' day='31' />
+<date year='2022' month='June' day='23' />
 <abstract><t>This document presents new Universally Unique Identifier (UUID) formats for use in modern applications and databases.</t></abstract>
 </front>
-<seriesInfo name='Internet-Draft' value='draft-peabody-dispatch-new-uuid-format-03'/>
-<format type='TXT' target='https://www.ietf.org/internet-drafts/draft-peabody-dispatch-new-uuid-format-03.txt'/>
+<seriesInfo name='Internet-Draft' value='draft-peabody-dispatch-new-uuid-format-04'/>
+<format type='TXT' target='https://www.ietf.org/internet-drafts/draft-peabody-dispatch-new-uuid-format-04.txt'/>
 </reference>

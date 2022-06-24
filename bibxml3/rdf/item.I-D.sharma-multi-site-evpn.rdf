@@ -1,7 +1,6 @@
-
-<item rdf:about='http://www.ietf.org/internet-drafts/draft-sharma-multi-site-evpn-03.txt'>
-    <title>"Multi-site EVPN based VXLAN using Border Gateways", Rajesh Sharma, Ayan Banerjee, Raghava Sivaramu, Ali Sajassi</title>
-    <link>http://www.ietf.org/internet-drafts/draft-sharma-multi-site-evpn-03.txt</link>
-    <description>This document describes the procedures for interconnecting two or more BGP based Ethernet VPN (EVPN) sites in a scalable fashion over an IP-only network.  The motivation is to support extension of EVPN sites without having to rely on typical Data Center Interconnect (DCI) technologies like MPLS/VPLS for the interconnection.  The requirements for such a deployment are very similar to the ones specified in RFC 7209 -- "Requirements for Ethernet VPN (EVPN)".</description>
-    <dc:date>2017-07-17T07:00:00-00:00</dc:date>
-</item>
+    <item rdf:about='http://www.ietf.org/internet-drafts/draft-sharma-multi-site-evpn-04.txt'>
+        <link>http://www.ietf.org/internet-drafts/draft-sharma-multi-site-evpn-04.txt</link>
+        <title>"Multi-site EVPN based VXLAN using Border Gateways", Rajesh Sharma, Ayan Banerjee, Raghava Sivaramu, Ali Sajassi</title>
+        <dc:date>2022-06-23T23:00:00-00:00</dc:date>
+        <description>This document described the procedures for interconnecting two or more Network Virtualization Overlays (NVOs) via NVO over IP-only network.  The solution interconnects Ethernet VPN network by using NVO with Ethernet VPN (EVPN) to facilitate the interconnect in a scalable fashion.  The motivation is to support extension of Layer-2 and Layer-3, Unicast and Multicast, VPNs without having to rely on typical Data Center Interconnect (DCI) technologies like MPLS/VPLS. The requirements for the interconnect are similar to the ones specified in RFC7209 [RFC7209] "Requirements for Ethernet VPN (EVPN)".  In particular, this document describes the difference of the Gateways (GWs) procedure and incremental functionality from [RFC9014] "Interconnect Solution for Ethernet VPN (EVPN) Overlay Networks", which this solution is interoperable with.  This document is OBSOLETE and replaced by [SHARMA-BESS-MULTI-SITE].</description>
+    </item>

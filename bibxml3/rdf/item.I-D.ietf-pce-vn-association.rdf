@@ -1,6 +1,0 @@
-    <item rdf:about='http://www.ietf.org/internet-drafts/draft-ietf-pce-vn-association-08.txt'>
-        <link>http://www.ietf.org/internet-drafts/draft-ietf-pce-vn-association-08.txt</link>
-        <title>"Path Computation Element Communication Protocol (PCEP) extensions for establishing relationships between sets of Label Switched Paths and Virtual Networks", Young Lee, Haomian Zheng, Daniele Ceccarelli</title>
-        <dc:date>2022-05-12T23:00:00-00:00</dc:date>
-        <description>This document describes how to extend the Path Computation Element (PCE) Communication Protocol (PCEP) association mechanism introduced by the PCEP Association Group specification, to further associate sets of Label Switched Paths (LSPs) with a higher-level structure such as a Virtual Network (VN) requested by a customer or application.  This extended association mechanism can be used to facilitate control of virtual network using the PCE architecture.</description>
-    </item>

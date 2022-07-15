@@ -1,6 +1,0 @@
-    <item rdf:about='http://www.ietf.org/internet-drafts/draft-xu-rtgwg-twod-ip-routing-01.txt'>
-        <link>http://www.ietf.org/internet-drafts/draft-xu-rtgwg-twod-ip-routing-01.txt</link>
-        <title>"Two Dimensional IP Routing Architecture", Mingwei Xu, Jianping Wu, Shu Yang, Laizhong Cui, Dan Wang</title>
-        <dc:date>2022-03-24T23:00:00-00:00</dc:date>
-        <description>This document describes Two Dimensional IP (TwoD-IP) routing, a new Internet routing architecture which makes forwarding decisions based on both source address and destination address.  This presents a fundamental extension for traditional routing mechanism, which makes forwarding decisions based on destination addresses to provides reachability services.  Such extension provides rooms to solve fundamental problems of the past and foster great innovations in the future.</description>
-    </item>

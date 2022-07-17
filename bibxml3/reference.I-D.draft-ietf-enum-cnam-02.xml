@@ -2,7 +2,7 @@
 
 <reference anchor='I-D.ietf-enum-cnam'>
 <front>
-<title>IANA Registration for an Enumservice Calling Name Delivery (CNAM)  Information and IANA Registration for Media type ‘application/cnam’</title>
+<title>IANA Registration for an Enumservice Calling Name Delivery (CNAM)  Information and IANA Registration for Media type â€˜application/cnamâ€™</title>
 
 <author initials='R' surname='Shockey' fullname='Richard Shockey'>
     <organization />
@@ -10,7 +10,7 @@
 
 <date month='July' day='25' year='2006' />
 
-<abstract><t>This document registers the Enumservice ‘pstn’ and the compound subtype ‘cnam’ using the URI scheme ‘data:’, as per the IANA registration process defined in the ENUM specification, RFC 3761 and creates a new media type application/cnam.. This data is used to facilitate the transfer of Calling Name Delivery (CNAM) data for calls that originate on the Public Switched Telephone Network (PSTN) that may be displayed on VoIP or other Real-time Client User Agents (CUA).</t></abstract>
+<abstract><t>This document registers the Enumservice â€˜pstnâ€™ and the compound subtype â€˜cnamâ€™ using the URI scheme â€˜data:â€™, as per the IANA registration process defined in the ENUM specification, RFC 3761 and creates a new media type application/cnam.. This data is used to facilitate the transfer of Calling Name Delivery (CNAM) data for calls that originate on the Public Switched Telephone Network (PSTN) that may be displayed on VoIP or other Real-time Client User Agents (CUA).</t></abstract>
 
 </front>
 

@@ -14,7 +14,7 @@
 
 <date month='June' day='28' year='2006' />
 
-<abstract><t>This document describes the algorithms that implement Boneh-Franklin and Boneh-Boyen Identity-based Encryption. This document is in part based on IBCS #1 v2 of Voltage Security’s Identity-based Cryptography Standards (IBCS) documents.</t></abstract>
+<abstract><t>This document describes the algorithms that implement Boneh-Franklin and Boneh-Boyen Identity-based Encryption. This document is in part based on IBCS #1 v2 of Voltage Securityâ€™s Identity-based Cryptography Standards (IBCS) documents.</t></abstract>
 
 </front>
 

@@ -10,7 +10,7 @@
 
 <date month='January' day='10' year='2006' />
 
-<abstract><t>When an ad hoc network is connected to the Internet, it is important for the mobile nodes to detect available gateways providing access to the Internet. Therefore, a gateway discovery and selection mechanism is required. Current ad hoc routing protocols have been extended to support gateway discovery. However, the selection process is based on the default gateway configuration. We here describe an extension to MANET protocols to enable the gateway selection according to users’ requirements, especially in the case where multiple gateways co- exist.</t></abstract>
+<abstract><t>When an ad hoc network is connected to the Internet, it is important for the mobile nodes to detect available gateways providing access to the Internet. Therefore, a gateway discovery and selection mechanism is required. Current ad hoc routing protocols have been extended to support gateway discovery. However, the selection process is based on the default gateway configuration. We here describe an extension to MANET protocols to enable the gateway selection according to usersâ€™ requirements, especially in the case where multiple gateways co- exist.</t></abstract>
 
 </front>
 

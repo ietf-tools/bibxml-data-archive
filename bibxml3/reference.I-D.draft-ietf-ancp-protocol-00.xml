@@ -10,7 +10,7 @@
 
 <date month='March' day='6' year='2007' />
 
-<abstract><t>This document describes proposed extensions to the GSMPv3 protocol to allow its use in a broadband environment, as a control plane between Access Nodes (e.g. DSLAM) and Broadband Network Gateways (e.g. NAS). These proposed extensions are required to realize a protocol for ìAccess Node Controlî mechanism as described in [9]. The resulting protocol with the proposed extensions to GSMPv3 [4] is referred to as ìAccess Node Control Protocolî (ANCP). This document focuses on specific use cases of access node control mechanism for topology discovery, line configuration, and OAM. It is intended to be augmented by additional protocol specification for future use cases considered in scope by the ANCP charter.</t></abstract>
+<abstract><t>This document describes proposed extensions to the GSMPv3 protocol to allow its use in a broadband environment, as a control plane between Access Nodes (e.g. DSLAM) and Broadband Network Gateways (e.g. NAS). These proposed extensions are required to realize a protocol for ‚ÄúAccess Node Control‚Äù mechanism as described in [9]. The resulting protocol with the proposed extensions to GSMPv3 [4] is referred to as ‚ÄúAccess Node Control Protocol‚Äù (ANCP). This document focuses on specific use cases of access node control mechanism for topology discovery, line configuration, and OAM. It is intended to be augmented by additional protocol specification for future use cases considered in scope by the ANCP charter.</t></abstract>
 
 </front>
 

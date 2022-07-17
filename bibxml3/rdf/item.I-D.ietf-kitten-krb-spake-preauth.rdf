@@ -1,6 +1,0 @@
-    <item rdf:about='http://www.ietf.org/internet-drafts/draft-ietf-kitten-krb-spake-preauth-10.txt'>
-        <link>http://www.ietf.org/internet-drafts/draft-ietf-kitten-krb-spake-preauth-10.txt</link>
-        <title>"SPAKE Pre-Authentication", Nathaniel McCallum, Simo Sorce, Robbie Harwood, Greg Hudson</title>
-        <dc:date>2022-06-08T23:00:00-00:00</dc:date>
-        <description>This document defines a new pre-authentication mechanism for the Kerberos protocol.  The mechanism uses a password-authenticated key exchange to prevent brute-force password attacks, and may optionally incorporate a second factor.</description>
-    </item>

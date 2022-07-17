@@ -1,6 +1,0 @@
-    <item rdf:about='http://www.ietf.org/internet-drafts/draft-ietf-anima-brski-async-enroll-05.txt'>
-        <link>http://www.ietf.org/internet-drafts/draft-ietf-anima-brski-async-enroll-05.txt</link>
-        <title>"BRSKI-AE: Alternative Enrollment Protocols in BRSKI", David von Oheimb, Steffen Fries, Hendrik Brockhaus, Eliot Lear</title>
-        <dc:date>2022-03-07T23:00:00-00:00</dc:date>
-        <description>This document enhances Bootstrapping Remote Secure Key Infrastructure (BRSKI, [RFC8995]) to allow employing alternative enrollment protocols, such as CMP.  Using self-contained signed objects, the origin of enrollment requests and responses can be authenticated independently of message transfer.  This supports end-to-end security and asynchronous operation of certificate enrollment and provides flexibility where to authenticate and authorize certification requests.</description>
-    </item>

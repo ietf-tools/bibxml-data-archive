@@ -1,6 +1,0 @@
-    <item rdf:about='http://www.ietf.org/internet-drafts/draft-ietf-ccamp-otn-tunnel-model-16.txt'>
-        <link>http://www.ietf.org/internet-drafts/draft-ietf-ccamp-otn-tunnel-model-16.txt</link>
-        <title>"OTN Tunnel YANG Model", Haomian Zheng, Italo Busi, Sergio Belotti, Victor Lopez, Yunbin Xu</title>
-        <dc:date>2022-04-08T23:00:00-00:00</dc:date>
-        <description>This document describes the YANG data model for tunnels in OTN TE networks.  The model can be used to do the configuration in order to establish the tunnel in OTN network.  This work is independent with the control plane protocols.</description>
-    </item>

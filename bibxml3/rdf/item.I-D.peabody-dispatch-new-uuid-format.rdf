@@ -1,6 +1,0 @@
-    <item rdf:about='http://www.ietf.org/internet-drafts/draft-peabody-dispatch-new-uuid-format-04.txt'>
-        <link>http://www.ietf.org/internet-drafts/draft-peabody-dispatch-new-uuid-format-04.txt</link>
-        <title>"New UUID Formats", Brad Peabody, Kyzer Davis</title>
-        <dc:date>2022-06-23T23:00:00-00:00</dc:date>
-        <description>This document presents new Universally Unique Identifier (UUID) formats for use in modern applications and databases.</description>
-    </item>

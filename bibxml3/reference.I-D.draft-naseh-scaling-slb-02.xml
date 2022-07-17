@@ -10,7 +10,7 @@
 
 <date month='January' day='25' year='2007' />
 
-<abstract><t>This document defines details of several design methodologies and current best practices for scaling server load balancing (a.k.a. content switching) environments in today’s enterprise data centers. The scenarios covered in this document covers utilization of protocols and technologies ranging from IPv4 routing to DNS for scalability of server load balancing.</t></abstract>
+<abstract><t>This document defines details of several design methodologies and current best practices for scaling server load balancing (a.k.a. content switching) environments in todayâ€™s enterprise data centers. The scenarios covered in this document covers utilization of protocols and technologies ranging from IPv4 routing to DNS for scalability of server load balancing.</t></abstract>
 
 </front>
 

@@ -10,7 +10,7 @@
 
 <date month='November' day='9' year='2007' />
 
-<abstract><t>This document describes a requirement for Multicast IP VPN solutions to allow the same multicast stream to flow simultaneously on multiple inter-PE paths without duplicates being sent to receivers. It is intended that existing and new solutions to MPLS/BGP Multicast IP VPN’s will support this requirement.</t></abstract>
+<abstract><t>This document describes a requirement for Multicast IP VPN solutions to allow the same multicast stream to flow simultaneously on multiple inter-PE paths without duplicates being sent to receivers. It is intended that existing and new solutions to MPLS/BGP Multicast IP VPNâ€™s will support this requirement.</t></abstract>
 
 </front>
 

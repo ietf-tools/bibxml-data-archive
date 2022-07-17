@@ -1,6 +1,0 @@
-    <item rdf:about='http://www.ietf.org/internet-drafts/draft-paragon-paseto-rfc-01.txt'>
-        <link>http://www.ietf.org/internet-drafts/draft-paragon-paseto-rfc-01.txt</link>
-        <title>"PASETO (Platform-Agnostic SEcurity TOkens)", Robyn Terjesen, Steven Haussmann, Scott Arciszewski</title>
-        <dc:date>2022-05-24T23:00:00-00:00</dc:date>
-        <description>Platform-Agnostic SEcurity TOkens (PASETOs) provide a cryptographically secure, compact, and URL-safe representation of claims that may be transferred between two parties.  The claims are encoded in JavaScript Object Notation (JSON), version-tagged, and either encrypted using shared-key cryptography or signed using public-key cryptography.</description>
-    </item>

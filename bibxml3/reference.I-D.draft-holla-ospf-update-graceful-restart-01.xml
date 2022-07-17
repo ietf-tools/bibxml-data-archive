@@ -10,7 +10,7 @@
 
 <date month='March' day='10' year='2006' />
 
-<abstract><t>This document suggests improvements to OSPF v2 Graceful Restart. The basic protocol working remains as specified in [OSPFGR]. The draft describes a two pronged approach for improving the current graceful restart mechanism. It improves the restarting router’s ability to detect and react to topology changes. It also reduces the conservative behavior of the helper router in reacting to topology changes.</t></abstract>
+<abstract><t>This document suggests improvements to OSPF v2 Graceful Restart. The basic protocol working remains as specified in [OSPFGR]. The draft describes a two pronged approach for improving the current graceful restart mechanism. It improves the restarting routerâ€™s ability to detect and react to topology changes. It also reduces the conservative behavior of the helper router in reacting to topology changes.</t></abstract>
 
 </front>
 

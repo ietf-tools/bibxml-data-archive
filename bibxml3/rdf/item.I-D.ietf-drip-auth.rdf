@@ -1,6 +1,0 @@
-    <item rdf:about='http://www.ietf.org/internet-drafts/draft-ietf-drip-auth-14.txt'>
-        <link>http://www.ietf.org/internet-drafts/draft-ietf-drip-auth-14.txt</link>
-        <title>"DRIP Entity Tag Authentication Formats &amp; Protocols for Broadcast Remote ID", Adam Wiethuechter, Stuart Card, Robert Moskowitz</title>
-        <dc:date>2022-06-21T23:00:00-00:00</dc:date>
-        <description>This document describes how to add trust into the Broadcast Remote ID (RID) specification discussed in the DRIP Architecture.  It defines a few message schemes (sent within the Authentication Message) that can be used to authenticate past messages sent by a unmanned aircraft (UA) and provide proof of UA trustworthiness even in the absence of Internet connectivity at the receiving node.</description>
-    </item>

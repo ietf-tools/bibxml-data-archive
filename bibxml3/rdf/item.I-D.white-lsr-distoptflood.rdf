@@ -1,6 +1,0 @@
-    <item rdf:about='http://www.ietf.org/internet-drafts/draft-white-lsr-distoptflood-02.txt'>
-        <link>http://www.ietf.org/internet-drafts/draft-white-lsr-distoptflood-02.txt</link>
-        <title>"IS-IS Optimal Distributed Flooding for Dense Topologies", Russ White, Shraddha Hegde, Tony Przygienda</title>
-        <dc:date>2022-04-25T23:00:00-00:00</dc:date>
-        <description>In dense topologies (such as data center fabrics based on the Clos and butterfly topologies, though not limited to these), IGP flooding mechanisms designed for sparse topologies can "overflood," or carry too many copies of topology and reachability information to fabric devices.  This results in slower convergence times and higher resource utilization.  The modifications to the flooding mechanism in the Intermediate System to Intermediate System (IS-IS) link state protocol described in this document reduce resource utilization significantly, while increasing convergence performance in dense topologies.  Note that a Clos fabric is used as the primary example of a dense flooding topology throughout this document.  However, the flooding optimizations described in this document apply to any topology.</description>
-    </item>

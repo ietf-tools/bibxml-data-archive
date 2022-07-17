@@ -10,7 +10,7 @@
 
 <date month='November' day='21' year='2006' />
 
-<abstract><t>This document describes changes to inter-site signaling procedures in Multicast MPLS/BGP IP VPNs, defined in [ii], that result in the simplification of inter-PE multicast traffic patterns. It specifies a mechanism to bypass shared tree to shortest path tree VPN traffic switching between PE’s and to achieve congruency of multicast routing with VPN’s unicast routing policy.</t></abstract>
+<abstract><t>This document describes changes to inter-site signaling procedures in Multicast MPLS/BGP IP VPNs, defined in [ii], that result in the simplification of inter-PE multicast traffic patterns. It specifies a mechanism to bypass shared tree to shortest path tree VPN traffic switching between PEâ€™s and to achieve congruency of multicast routing with VPNâ€™s unicast routing policy.</t></abstract>
 
 </front>
 

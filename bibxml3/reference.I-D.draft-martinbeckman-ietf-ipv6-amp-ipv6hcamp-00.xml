@@ -10,7 +10,7 @@
 
 <date month='September' day='19' year='2006' />
 
-<abstract><t>This document outlines a methodology for IPv6 Header Compression via mapping the source and destination addresses into a flow label value per address pair sessions with a specific traffic class field value to identify the packet as ìaddress-lessî compressed header. The resultant headers, sans addresses shrink from 320 bits to 64 bits. This mapping is locally specific to the router port and the connecting hosts/router ports. Specifically written for use on low bandwidth links (less than T1 or 1.544Mbps), IPv6 AMPís applicability goes to integration of cellular/WiFi appliances and will be critical for tactical uses for military and first responder applications.</t></abstract>
+<abstract><t>This document outlines a methodology for IPv6 Header Compression via mapping the source and destination addresses into a flow label value per address pair sessions with a specific traffic class field value to identify the packet as ‚Äúaddress-less‚Äù compressed header. The resultant headers, sans addresses shrink from 320 bits to 64 bits. This mapping is locally specific to the router port and the connecting hosts/router ports. Specifically written for use on low bandwidth links (less than T1 or 1.544Mbps), IPv6 AMP‚Äôs applicability goes to integration of cellular/WiFi appliances and will be critical for tactical uses for military and first responder applications.</t></abstract>
 
 </front>
 

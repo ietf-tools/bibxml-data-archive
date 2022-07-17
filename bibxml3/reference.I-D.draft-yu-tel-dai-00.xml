@@ -10,7 +10,7 @@
 
 <date month='October' day='9' year='2006' />
 
-<abstract><t>This document defines a ìdaiî parameter for the "tel" Uniform Resource Identifier (URI) to support the Dial Around Indicator (DAI). The "dai" parameter is associated with the "cic" parameter and indicates how the carrier identified in the "cic" parameter is chosen to handle the call.</t></abstract>
+<abstract><t>This document defines a ‚Äúdai‚Äù parameter for the "tel" Uniform Resource Identifier (URI) to support the Dial Around Indicator (DAI). The "dai" parameter is associated with the "cic" parameter and indicates how the carrier identified in the "cic" parameter is chosen to handle the call.</t></abstract>
 
 </front>
 
